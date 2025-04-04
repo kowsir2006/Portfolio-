@@ -1,0 +1,134 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://SmylY32bURWhE3d:nnFkGC8wWlnO5hx@localhost:39776/storage/emulated/0/Sample%20portfolio%20/Sample%20portfolio%20/portfolio/Sample%20portfolio.html
+Subject: Portfolio
+Date: Tue, 25 Mar 2025 13:13:32 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--lzXJ25Cova32wNwT8ELkOFUqsqKSxEbdVz0aT1gqdF----"
+
+
+------MultipartBoundary--lzXJ25Cova32wNwT8ELkOFUqsqKSxEbdVz0aT1gqdF----
+Content-Type: text/html
+Content-ID: <frame-0339D55FA64DB2EC1F510D6D87564535@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://SmylY32bURWhE3d:nnFkGC8wWlnO5hx@localhost:39776/storage/emulated/0/Sample%20portfolio%20/Sample%20portfolio%20/portfolio/Sample%20portfolio.html
+
+<!DOCTYPE html><html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="cid:css-a590a7e2-42d6-48a9-b58e-9f7555200049@mhtml.blink" />
+    <title>Portfolio</title>
+    
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <!-- Add your profile picture here -->
+            
+            <h1>KOWSALYA R</h1>
+            <p>Junior Web Developer</p>
+        </div>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="http://SmylY32bURWhE3d:nnFkGC8wWlnO5hx@localhost:39776/storage/emulated/0/Sample%20portfolio%20/Sample%20portfolio%20/portfolio/Sample%20portfolio.html#about">About</a></li>
+            <li><a href="http://SmylY32bURWhE3d:nnFkGC8wWlnO5hx@localhost:39776/storage/emulated/0/Sample%20portfolio%20/Sample%20portfolio%20/portfolio/Sample%20portfolio.html#education">Education</a></li>
+            <li><a href="http://SmylY32bURWhE3d:nnFkGC8wWlnO5hx@localhost:39776/storage/emulated/0/Sample%20portfolio%20/Sample%20portfolio%20/portfolio/Sample%20portfolio.html#skills">Skills</a></li>
+            <li><a href="http://SmylY32bURWhE3d:nnFkGC8wWlnO5hx@localhost:39776/storage/emulated/0/Sample%20portfolio%20/Sample%20portfolio%20/portfolio/Sample%20portfolio.html#projects">Projects</a></li>
+            <li><a href="http://SmylY32bURWhE3d:nnFkGC8wWlnO5hx@localhost:39776/storage/emulated/0/Sample%20portfolio%20/Sample%20portfolio%20/portfolio/Sample%20portfolio.html#resume">Resume</a></li>
+           
+        </ul>
+    </nav>
+
+    <section id="about">
+        <div class="section-content">
+            <h2>About Me</h2>
+            <p>I'm a <b>web development</b> enthusiast passionate about creating dynamic, user-friendly, and visually appealing websites.  
+                As a creative front-end web developer, I have experience in building interactive and mobile-friendly websites,  
+                with proficiency in <b>HTML, CSS, and JavaScript</b>.  
+                Additionally, I have knowledge of back-end technologies like <b>Python</b> and <b>Java</b>.  
+        
+                I stay updated with the evolving web development landscape and am committed to learning and implementing best practices  
+                to build secure, scalable, and high-performance websites.  
+                I also enjoy sharing my knowledge to help others grow in the field of web development.</p>
+
+        </div>
+    </section>
+
+    <section id="education">
+        <div class="section-content">
+            <h2>Education</h2>
+            <p></p>
+            <p>KCS Kasi Nadar College of Arts and Science - BSC CS</p>
+            
+<p>percentage:86%</p>
+            
+        </div>
+    </section>
+
+    <section id="skills">
+        <div class="section-content">
+            <h2>Skills</h2>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>Python</li>
+                <li>java</li>
+                <li>Sql</li>
+            </ul>
+        </div>
+    </section>
+
+    
+
+    <section id="resume">
+    
+        <div class="section-content">
+            <center>
+            <h2>Resume</h2>
+            <a href="https://drive.google.com/file/d/1g3eYZ4hOjhUIv5hrbtV0h59S_z24h-xL/view?usp=drivesdk" target="_blank" class="download-button">Download CV</a>
+        </center>
+        </div>
+        
+    </section>
+
+    <footer>
+        <p>© 2025 Kowsalya </p>
+    </footer>
+
+    
+
+</body></html>
+------MultipartBoundary--lzXJ25Cova32wNwT8ELkOFUqsqKSxEbdVz0aT1gqdF----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-a590a7e2-42d6-48a9-b58e-9f7555200049@mhtml.blink
+
+@charset "windows-1252";
+
+body { font-family: Arial, sans-serif; margin: 0px; padding: 0px; background-color: rgb(132, 166, 233); }
+
+header { background-color: rgb(195, 38, 38); color: rgb(255, 255, 255); text-align: center; padding: 2rem 0px; position: relative; }
+
+.header-content h1 { font-size: 2.5rem; }
+
+.profile-picture { width: 100px; height: 100px; border-radius: 75%; object-fit: cover; position: absolute; top: 75px; left: 75px; }
+
+nav { background-color: rgb(68, 68, 68); text-align: center; }
+
+nav ul { list-style-type: none; padding: 0px; }
+
+nav ul li { display: inline; margin: 0px 20px; }
+
+nav ul li a { text-decoration: none; color: rgb(255, 255, 255); }
+
+.section-content { background-color: rgb(255, 255, 255); padding: 2rem; margin: 1rem; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 10px; text-align: justify; }
+
+.download-button { background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); padding: 0.5rem 1rem; text-decoration: none; border-radius: 20px; display: inline-block; margin-top: 10px; align-self: center; }
+
+.download-button:hover { background-color: rgb(85, 85, 85); }
+
+footer { text-align: center; padding: 1rem 0px; background-color: rgb(51, 51, 51); color: rgb(255, 255, 255); }
+
+ul { list-style-type: disc; padding-left: 20px; }
+------MultipartBoundary--lzXJ25Cova32wNwT8ELkOFUqsqKSxEbdVz0aT1gqdF------
